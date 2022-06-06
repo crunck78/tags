@@ -1,1 +1,3 @@
 Another File
+
+Changed in DETACHED HEAD STATE
