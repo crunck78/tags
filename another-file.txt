@@ -1,3 +1,3 @@
-Another File
+Chnaged in detached head state line
 
 Changed in DETACHED HEAD STATE
